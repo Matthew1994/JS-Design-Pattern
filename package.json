@@ -1,0 +1,25 @@
+{
+  "name": "js-design-pattern",
+  "version": "1.0.0",
+  "description": "javascript design patterns learning and practice",
+  "main": "Module-Pattern.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew1994/JS-Design-Pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew1994/JS-Design-Pattern/issues"
+  },
+  "homepage": "https://github.com/Matthew1994/JS-Design-Pattern#readme"
+}
